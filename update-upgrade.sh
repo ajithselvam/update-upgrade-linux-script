@@ -25,4 +25,6 @@ sudo apt upgrade -y
 # sudo apt full-upgrade -y
 cat /etc/*release*
 
+neofetch
+
 echo " System update and upgrade completed successfully!"
