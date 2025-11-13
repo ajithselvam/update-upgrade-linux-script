@@ -23,5 +23,6 @@ sudo apt upgrade -y
 
 # Optional: full system upgrade (uncomment if needed)
 # sudo apt full-upgrade -y
+cat /etc/*release*
 
 echo " System update and upgrade completed successfully!"
